@@ -37,7 +37,9 @@ avatar: assets/images/site/avatar.png
 favicon: assets/images/site/favicon.ico
 header_text: " "
 header_feature_image: assets/images/site/header.jpg
+footer_text: Copyright 2022 Matt Armour. All Rights Reserved.<br>Powered by Jekyll with Type on Strap
 color_theme: dark
+excerpt: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

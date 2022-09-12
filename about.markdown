@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+feature-img: "assets/images/site/about.jpg"
 ---
 
 About Matt

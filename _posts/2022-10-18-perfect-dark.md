@@ -3,7 +3,6 @@ layout: post
 title: Perfect Dark Source
 hide_title: false
 feature-img: "assets/images/posts/perfect-dark-source.png"
-color: rgba(17,55,138,255)
 bootstrap: false
 tags: [nintendo, n64, perfect dark, source code, how-to]
 ---
